@@ -10,4 +10,4 @@ In this repo, You can find all of Our documentation used across all projects, we
 ---
 
 ### Why Do We Have Documentation?
-To show that We abide by certain laws and that We want to buid trust with Our Community.
+To show that We abide by certain laws and that We want to build trust with Our Community.
